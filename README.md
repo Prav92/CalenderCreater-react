@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* Screenshot
+
+![Alt text](https://github.com/Prav92/CalenderCreater-react/blob/master/app/assets/images/Calreact.png "index page")
